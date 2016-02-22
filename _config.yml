@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.2735368
+  brandStrength: 0.1092241
+  lightness: 0.3442535
+  rhythmicContrast: 0.5672302
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+typography_spectrum: 0.3850698
+name: Kyle Bellamy
