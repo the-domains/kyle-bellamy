@@ -14,6 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Softly Crawling Through The Web
 cta:
   domain: null
   bucket: null
